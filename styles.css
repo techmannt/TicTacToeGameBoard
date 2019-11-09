@@ -31,3 +31,13 @@
 .right {
   border-left: 1px black solid;
 }
+
+.cell {
+  font-size: 5em;
+}
+
+.result {
+  text-align: center;
+  height: 60px;
+  font-size: 3em;
+}
